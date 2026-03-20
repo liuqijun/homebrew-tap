@@ -2,7 +2,7 @@ class MobileUse < Formula
   desc "Mobile UI automation CLI — inspect, interact with, and automate mobile app interfaces"
   homepage "https://github.com/liuqijun/mobile-use"
   url "https://github.com/liuqijun/mobile-use/archive/refs/tags/v0.3.1.tar.gz"
-  sha256 "a0c8604dc944b75bbd81ff0ee65a75855ef3e776daeaefbce296dc243a294a60"
+  sha256 "a0f347a1299615cd0b4e367a1cd630b8bfee40df211a0ee79873f0fc14a02f90"
   license "MIT"
 
   depends_on "rust" => :build
