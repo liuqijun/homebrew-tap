@@ -1,0 +1,23 @@
+Formula/mobile-use.rb
+  77905c1117ef3465 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.1.15",
+  "base_commit_sha": "d94df0582cd33bffe7ebd6e6a04ebf59f0276e4f",
+  "prompts": {
+    "77905c1117ef3465": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "bf7de8da-f699-4a27-99a6-9ecd65866753",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "liuqijun <liuqijun@outlook.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
